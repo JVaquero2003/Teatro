@@ -1,3 +1,3 @@
 # -*- coding: utf-8 -*-
 
-from . import libreria_modelo
+from . import teatro_modelo

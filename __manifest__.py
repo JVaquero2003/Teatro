@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "touring",
-    'summary': """Touring club""",
+    'name': "teatro",
+    'summary': """Gestion de un teatro""",
     'description': """
-        Tourist module to manage visits:
+        Aplicacion para gestionar un teatro
     """,
-    'author': "john doe",
-    'website': "http://www.salesuanos.edu",
+    'author': "Jose Vaquero",
+    'website': "https://github.com/JVaquero2003",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/master/openerp/addons/base/module/module_data.xml
